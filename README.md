@@ -1,6 +1,6 @@
 # Khaled Ibrahim
 
-### Enterprise AI Deployment & Product Strategist | Fintech | Payments | Agentic AI | APIs | MENA
+### Agentic AI Product Manager & Enterprise AI Deployment Strategist | Fintech | Payments | APIs | MENA
 
 📍 Dubai, United Arab Emirates
 
@@ -26,6 +26,15 @@ My current focus is applying **Generative AI and agentic AI** to practical enter
 
 # 🧪 Selected Product Projects
 
+These are product case studies and prototype specifications, not production systems. They show how I frame problems, define controls, map workflows and create implementation-ready product artifacts.
+
+| Case study | Product question | Artifacts |
+|---|---|---|
+| [Merchant Pricing Configuration](projects/merchant-pricing-configuration/) | How can commercial pricing become consistent, testable platform rules? | Rule model, lifecycle, scenarios, acceptance criteria |
+| [Merchant Onboarding & KYB](projects/merchant-onboarding-kyb/) | How can onboarding reduce friction without weakening compliance controls? | Journey, state model, review rules, metrics |
+| [Agentic AI Lead Recovery](projects/agentic-ai-lead-recovery/) | Where can an AI agent act, and when must a human take over? | Conversation flow, guardrails, handover policy, metrics |
+| [Payments & Payouts Orchestration](projects/payments-payouts-orchestration/) | How can multiple providers sit behind one predictable merchant experience? | State model, routing logic, webhook controls, reconciliation |
+
 ## 💰 Merchant Pricing Configuration
 
 A product prototype for configuring merchant payment pricing across different transaction types and commercial models.
@@ -46,7 +55,7 @@ A product prototype for configuring merchant payment pricing across different tr
 
 **Product challenge:** translate commercial pricing requirements into clear, testable platform rules that Commercial, Finance, Operations and Engineering can all understand.
 
-📁 Detailed project repository coming next.
+[Read the case study →](projects/merchant-pricing-configuration/)
 
 ---
 
@@ -71,7 +80,7 @@ A structured merchant onboarding prototype designed around regulated fintech req
 
 **Product challenge:** reduce onboarding friction while maintaining compliance controls, traceability and operational clarity.
 
-📁 Detailed project repository coming next.
+[Read the case study →](projects/merchant-onboarding-kyb/)
 
 ---
 
@@ -91,7 +100,7 @@ An AI-agent concept for qualifying, following up and recovering leads through Wh
 - Guardrails
 - Escalation logic
 
-📁 Detailed project repository coming soon.
+[Read the case study →](projects/agentic-ai-lead-recovery/)
 
 ---
 
@@ -115,9 +124,11 @@ An AI-assisted commerce and payment concept where an agent understands customer 
 
 A prototype illustrating an end-to-end payment orchestration journey.
 
-`Create Payment → Validate → Risk & Compliance → Route → Provider → Authorization → Process → Webhook → Reconciliation → FX & Settlement`
+Create Payment → Validate → Risk & Compliance → Route → Provider → Authorization → Process → Webhook → Reconciliation → FX & Settlement
 
 The simulator explores how a unified payments platform can coordinate providers, routing, transaction states, webhooks, reconciliation and settlement behind a single merchant experience.
+
+[Read the case study →](projects/payments-payouts-orchestration/)
 
 ---
 
